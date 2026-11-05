@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./lumezabanner.jpeg
-" width="100%" alt="Lumeza Labs Banner">
-</p>
-
 ⚡LUMEZA LABS
 
 Building Beyond Boundaries.
